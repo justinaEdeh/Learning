@@ -1,2 +1,1 @@
-# Learning
-My first Learning
+'My first clone'
